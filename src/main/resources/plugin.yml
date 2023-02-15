@@ -1,0 +1,7 @@
+name: Forcefield
+version: '${project.version}'
+main: dev.sha256_.forcefield.Forcefield
+api-version: 1.19
+commands:
+  forcefield:
+    description: "Forcefield"
